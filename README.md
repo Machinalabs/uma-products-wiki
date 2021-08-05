@@ -39,3 +39,7 @@ Our knowledge center to share resources with our community
 [Week 17](https://github.com/Machinalabs/protocol/blob/master/packages/affiliates/liquidity-mining/yuma21-weekly-payouts/Week_17_Mining_Rewards.json) [[Calculations](https://github.com/Machinalabs/protocol/blob/master/packages/affiliates/liquidity-mining/yumaWeek17.sh)]
 
 [Week 18](https://github.com/Machinalabs/protocol/blob/master/packages/affiliates/liquidity-mining/yuma21-weekly-payouts/Week_18_Mining_Rewards.json) [[Calculations](https://github.com/Machinalabs/protocol/blob/master/packages/affiliates/liquidity-mining/yumaWeek18.sh)]
+
+[Week 19](https://github.com/Machinalabs/protocol/blob/master/packages/affiliates/liquidity-mining/yuma21-weekly-payouts/Week_19_Mining_Rewards.json) [[Calculations](https://github.com/Machinalabs/protocol/blob/master/packages/affiliates/liquidity-mining/yumaWeek19.sh)]
+
+[Week 20](https://github.com/Machinalabs/protocol/blob/master/packages/affiliates/liquidity-mining/yuma21-weekly-payouts/Week_20_Mining_Rewards.json) [[Calculations](https://github.com/Machinalabs/protocol/blob/master/packages/affiliates/liquidity-mining/yumaWeek20.sh)]
